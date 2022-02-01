@@ -1,0 +1,1 @@
+Biking data of trailing twelve months can be obtained from https://divvy-tripdata.s3.amazonaws.com/index.html
